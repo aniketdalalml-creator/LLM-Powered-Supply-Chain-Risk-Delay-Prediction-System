@@ -1,10 +1,3 @@
-To make your project look professional and "job-ready," copy and paste the following into your `README.md` file. 
-
-This structure specifically highlights your **Software Engineering** maturity (mentioning things like **Latencies**, **Evaluation**, and **System Design**) which is what will justify a higher salary.
-
----
-
-```markdown
 # 🚚 LLM-Powered Supply Chain Risk & Delay Prediction System
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
@@ -65,16 +58,3 @@ MONGODB_URI=your_connection_string
 ```bash
 uvicorn app.main:app --reload
 ```
-
----
-*Developed by Aniket Dalal - Aiming to solve complex logistics problems through Engineering & AI.*
-```
-
----
-
-### Why this works for your switch:
-1. **The Language:** It uses terms like **"Microservice," "Inference," "Latency,"** and **"JSON payloads."** This proves you are an engineer who understands how AI fits into a professional codebase.
-2. **The Evaluation:** Most beginners just show a screenshot of a chat. You are showing a **Performance Benchmarks** table. This is what Senior Engineers do.
-3. **The "Why":** It starts with a business problem (cost of delays). This shows you care about **ROI**, which is how you negotiate a higher salary.
-
-**Would you like me to generate the "System Architecture" diagram in Mermaid.js so you can add a visual to this README?**
